@@ -1,4 +1,4 @@
-ats-resume-analyzer
+**ATS-RESUME-ANALYZER**
 📄**** AI-Powered ATS Resume Analyzer (Full-Stack GenAI Project)****
 
 An end-to-end full-stack AI application that analyzes resumes against job descriptions using Natural Language Processing (NLP) and Generative AI (LLMs). Built with a Python Flask backend and a responsive HTML/CSS frontend, this project simulates real-world Applicant Tracking System (ATS) functionality used in modern recruitment platforms.
